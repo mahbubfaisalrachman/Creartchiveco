@@ -1,0 +1,40 @@
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.hero {
+  padding-top: 100px; /* atau sesuaikan dengan tinggi navbar kamu */
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.btn-whatsapp {
+  color: #fff;
+}
+
+.btn-whatsapp:hover {
+  color: #fff;
+}
+
+.card-icon {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background: #111;
+  color: #fff;
+}
+
+footer a {
+  text-decoration: none;
+}
